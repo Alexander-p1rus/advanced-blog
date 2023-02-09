@@ -1,1 +1,0 @@
-export let log=(arg:string):string=>arg
